@@ -224,7 +224,7 @@ public class FinalAssignment {
 		Property twitterId = model.createProperty("http://open.vocab.org/terms/twitter-id");
 		
 		// リソースにプロパティを追加
-		model.createResource("http://linkdata.org/resource/rdf1s9990i#" + number)
+		model.createResource("http://linkdata.org/resource/rdf1s9994i#" + number)
 			.addProperty(label, values[0], "en")
 			.addProperty(label, values[1], "en")
 			.addProperty(name, values[2], "en")
