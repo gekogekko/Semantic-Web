@@ -5,4 +5,4 @@ Jenaを用いてRDFを出力するJavaプログラムです。
 LinkDataで作成したテーブルデータから自動的に生成されたRDF(Turtle形式)です。
 
 # 参考
-http://linkdata.org/work/rdf1s9990i
+http://linkdata.org/work/rdf1s9994i
