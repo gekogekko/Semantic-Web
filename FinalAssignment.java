@@ -212,7 +212,7 @@ public class FinalAssignment {
 	}
 	
 	// リソースを作成する関数
-	private static Model createResource(Model model, String number, String... values) {
+	private static Model createResource(Model model, String id, String... values) {
 		// プロパティの作成
 		Property label = model.createProperty("http://www.w3.org/2000/01/rdf-schema#label");
 		Property name = model.createProperty("http://dbpedia.org/ontology/name");
@@ -224,7 +224,7 @@ public class FinalAssignment {
 		Property twitterId = model.createProperty("http://open.vocab.org/terms/twitter-id");
 		
 		// リソースにプロパティを追加
-		model.createResource("http://linkdata.org/resource/rdf1s9994i#" + number)
+		model.createResource("http://linkdata.org/resource/rdf1s9994i#" + id)
 		.addProperty(label, values[0], "en")
 		.addProperty(label, values[1], "en")
 		.addProperty(name, values[2], "en")
