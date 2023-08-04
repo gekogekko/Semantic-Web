@@ -32,11 +32,7 @@ public class FinalAssignment {
 		.addProperty(attributionURL, model.createResource("http://user.linkdata.org/user/gekko/work"))
 		.addProperty(license, model.createResource("http://creativecommons.org/publicdomain/zero/1.0/deed.ja"));
 		
-		// RDFデータ(Turtle形式)を出力
-		model.write(System.out, "Turtle");
-		
 		// リソースを作成
-		createResource(model, "1", "1", "2GE", "James Goopio", "Philippines", "Rex Regum Qeon", "N/A", "N/A", "5648", "rrq2ge");
 		createResource(model, "1", "1", "2GE", "James Goopio", "Philippines", "Rex Regum Qeon", "N/A", "N/A", "5648", "rrq2ge");
 		createResource(model, "2", "2", "aimDLL", "Hüseyin Kabişteke", "Turkey", "BBL Esports", "May 1", "2001", "20563", "aimDLLfps");
 		createResource(model, "3", "3", "Alfajer", "Emir Ali Beder", "Turkey", "Fnatic", "June 10", "2005", "138875", "Alfajervl");
@@ -210,10 +206,13 @@ public class FinalAssignment {
 		createResource(model, "171", "171", "Zellsis", "Jordan Montemurro", "United States", "Cloud9", "March 2", "1998", "32935", "zellsis");
 		createResource(model, "172", "172", "Zest", "Kim Gi-seok", "South Korea", "DRX", "December 27", "2000", "105344", "Zestvlrt");
 		createResource(model, "173", "173", "Zyppan", "Pontus Eek", "Sweden", "Natus Vincere", "July 17", "2002", "107623", "Zyppaan");
+		
+		// RDFデータ(Turtle形式)を出力
+		model.write(System.out, "Turtle");
 	}
 	
 	// リソースを作成する関数
-	private static void createResource(Model model, String number, String... values) {
+	private static Model createResource(Model model, String number, String... values) {
 		// プロパティの作成
 		Property label = model.createProperty("http://www.w3.org/2000/01/rdf-schema#label");
 		Property name = model.createProperty("http://dbpedia.org/ontology/name");
@@ -236,7 +235,6 @@ public class FinalAssignment {
 			.addProperty(careerPrizeMoney, values[7], "en")
 			.addProperty(twitterId, values[8], "en");
 		
-		// RDFデータ(Turtle形式)を出力
-		model.write(System.out, "Turtle");
+		return model;
     }
 }
