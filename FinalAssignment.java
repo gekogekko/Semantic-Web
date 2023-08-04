@@ -225,15 +225,15 @@ public class FinalAssignment {
 		
 		// リソースにプロパティを追加
 		model.createResource("http://linkdata.org/resource/rdf1s9994i#" + number)
-			.addProperty(label, values[0], "en")
-			.addProperty(label, values[1], "en")
-			.addProperty(name, values[2], "en")
-			.addProperty(nationality, values[3], "en")
-			.addProperty(memberOf, values[4], "en")
-			.addProperty(birthday, values[5], "en")
-			.addProperty(birthYear, values[6], "en")
-			.addProperty(careerPrizeMoney, values[7], "en")
-			.addProperty(twitterId, values[8], "en");
+		.addProperty(label, values[0], "en")
+		.addProperty(label, values[1], "en")
+		.addProperty(name, values[2], "en")
+		.addProperty(nationality, values[3], "en")
+		.addProperty(memberOf, values[4], "en")
+		.addProperty(birthday, values[5], "en")
+		.addProperty(birthYear, values[6], "en")
+		.addProperty(careerPrizeMoney, values[7], "en")
+		.addProperty(twitterId, values[8], "en");
 		
 		return model;
     }
