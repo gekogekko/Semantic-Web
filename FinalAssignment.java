@@ -1,5 +1,8 @@
 package lesson;
 
+import java.io.FileOutputStream;
+import java.io.IOException;
+
 import org.apache.jena.rdf.model.Model;
 import org.apache.jena.rdf.model.ModelFactory;
 import org.apache.jena.rdf.model.Property;
@@ -207,8 +210,15 @@ public class FinalAssignment {
 		createResource(model, "172", "172", "Zest", "Kim Gi-seok", "South Korea", "DRX", "December 27", "2000", "105344", "Zestvlrt");
 		createResource(model, "173", "173", "Zyppan", "Pontus Eek", "Sweden", "Natus Vincere", "July 17", "2002", "107623", "Zyppaan");
 		
-		// RDFデータ(Turtle形式)を出力
-		model.write(System.out, "Turtle");
+		String filename = "Professional_VALORANT_Players_on_Partner_Team.ttl"; // 保存するファイル名
+		try {
+			FileOutputStream outputStream = new FileOutputStream(filename);
+			model.write(outputStream, "Turtle"); // RDFファイルを作成
+			outputStream.close();
+			System.out.println("RDFをファイルに保存しました。");
+		} catch (IOException e) {
+			e.printStackTrace();
+		}
 	}
 	
 	// リソースを作成する関数
