@@ -1,0 +1,2950 @@
+@prefix cc:    <http://creativecommons.org/ns#> .
+@prefix rdf:   <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix owl:   <http://www.w3.org/2002/07/owl#> .
+@prefix xsd:   <http://www.w3.org/2001/XMLSchema#> .
+@prefix rdfs:  <http://www.w3.org/2000/01/rdf-schema#> .
+
+<>      cc:attributionName  "gekko"@en ;
+        cc:attributionURL   <http://user.linkdata.org/user/gekko/work> ;
+        cc:license          <http://creativecommons.org/publicdomain/zero/1.0/deed.ja> .
+
+<http://linkdata.org/resource/rdf1s9994i#166>
+        rdfs:label  "xeta"@en , "166"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "49815"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Son Seon-ho"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "OfficialXETA"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "T1"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 3"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#145>
+        rdfs:label  "stax"@en , "145"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "118528"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kim Gu-taek"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "staxVLRT"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DRX"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 16"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#124>
+        rdfs:label  "Reita"@en , "124"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1994"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "33476"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ryumon Oshiro"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Japan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ReitathefpS"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DetonatioN FocusMe"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 11"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#103>
+        rdfs:label  "Monyet"@en , "103"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2005"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "9814"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Cahya Nugraha"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Indonesia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "cahyanug_"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Global Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 5"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#92>
+        rdfs:label  "Lmemore"@en , "92"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "11845"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Hagai Kristen Yesyurun Tewuh"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Indonesia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Lmemore_"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Rex Regum Qeon"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#71>
+        rdfs:label  "jawgemo"@en , "71"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "60897"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Alexander Mor"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Cambodia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "jawgemo"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Evil Geniuses"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 24"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#50>
+        rdfs:label  "EJAY"@en , "50"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "2731"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Eroll Jule R. Delfin"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Philippines"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "rrq_ejay"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Rex Regum Qeon"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#29>
+        rdfs:label  "Carpe"@en , "29"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1998"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "12667"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Lee Jae-hyeok"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "carpe_ow"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "T1"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 14"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#153>
+        rdfs:label  "Tacolilla"@en , "153"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "43404"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Vicente Compagnon"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Chile"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "tacolillalzh"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Leviatán"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 3"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#132>
+        rdfs:label  "Sayf"@en , "132"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "55893"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Saif Jibraeel"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Sweden"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "DSajoof"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Liquid"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 1"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#111>
+        rdfs:label  "Nivera"@en , "111"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "44170"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Nabil Benrlitom"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Belgium / Morocco"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Nivera__"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Karmine Corp"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 10"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#4>
+        rdfs:label  "ANGE1"@en , "4"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "107995"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kyrylo Karasov"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Ukraine"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "OfficialANGE1"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Natus Vincere"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 10"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#79>
+        rdfs:label  "keloqz"@en , "79"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "34412"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Wassim Cista"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "France / Algeria"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "keloqz"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Heretics"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 26"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#58>
+        rdfs:label  "FNS"@en , "58"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1992"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "184520"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Pujan Mehta"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Canada"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "fns"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "NRG"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 19"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#37>
+        rdfs:label  "crow"@en , "37"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "54929"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Tomoaki Maruoka"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Japan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "no960fps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "ZETA DIVISION"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 28"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#16>
+        rdfs:label  "bang"@en , "16"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2004"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "36327"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Sean Bezerra"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "bangzerra"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "100 Thieves"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 13"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#161>
+        rdfs:label  "tuyz"@en , "161"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "44878"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Arthur Vieira"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "loud_tuyz"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "LOUD"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "August 3"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#140>
+        rdfs:label  "SkRossi"@en , "140"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "26839"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ganesh Gangadhar"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "India"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "skrossigg"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Global Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 12"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#119>
+        rdfs:label  "QutionerX"@en , "119"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "8338"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Doğukan Dural"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "QutionerX"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "BBL Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 3"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#87>
+        rdfs:label  "leaf"@en , "87"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "47060"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Nathan Orf"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "leaf_cs"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Cloud9"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 24"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#66>
+        rdfs:label  "icy"@en , "66"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "5445"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jacob Lange"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "icyjl"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Evil Geniuses"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "April 30"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#45>
+        rdfs:label  "Derrek"@en , "45"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "35215"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Derrek Ha"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "DerrekOW"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "100 Thieves"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 16"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#24>
+        rdfs:label  "Boostio"@en , "24"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "55267"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kelden Pupello"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Boostio"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Evil Geniuses"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 14"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#169>
+        rdfs:label  "xnfri"@en , "169"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "6177"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Tomoki Moriya"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Japan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "xnfri_"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DetonatioN FocusMe"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 9"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#148>
+        rdfs:label  "Suggest"@en , "148"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "27952"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Seo Jae-young"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Suggest5811"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DetonatioN FocusMe"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 30"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#127>
+        rdfs:label  "runi"@en , "127"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "9442"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Dylan Cade"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "runiVL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Cloud9"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#106>
+        rdfs:label  "Munchkin"@en , "106"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1998"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "35009"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Byeon Sang-beom"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "MUNCHKING_"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "T1"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 27"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#95>
+        rdfs:label  "mazin"@en , "95"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "21286"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Matheus Araújo"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "mazinfps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FURIA Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 27"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#74>
+        rdfs:label  "JitboyS"@en , "74"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "7930"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jittana Nokngam"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Thailand"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "jitboyy_"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Talon Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#53>
+        rdfs:label  "Ethan"@en , "53"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "88224"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ethan Arnold"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ethanarnold"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Evil Geniuses"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#32>
+        rdfs:label  "Chronicle"@en , "32"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "210724"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Timofey Khromov"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Russia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "chronicleEZ"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Fnatic"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "August 16"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#11>
+        rdfs:label  "ATA KAPTAN"@en , "11"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "15830"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ata Tan"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "AtaKaptanVL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FUT Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 6"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#156>
+        rdfs:label  "TenZ"@en , "156"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "95750"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Tyson Ngo"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Canada"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "TenZOfficial"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Sentinels"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 5"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#135>
+        rdfs:label  "Seoldam"@en , "135"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "3703"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Park Sang-min"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "SeoldamTwit"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DetonatioN FocusMe"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#114>
+        rdfs:label  "pANcada"@en , "114"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "102584"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Bryan Luna"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "pANcada"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Sentinels"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 31"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#7>
+        rdfs:label  "ardiis"@en , "7"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1998"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "134713"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ardis Svarenieks"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Latvia / United Kingdom"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ardiis"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "NRG"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 1"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#82>
+        rdfs:label  "kiNgg"@en , "82"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "43018"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Francisco Aravena"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Chile"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "kiNggfps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Leviatán"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 23"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#61>
+        rdfs:label  "frz"@en , "61"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "26329"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Leandro Gomes"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "frzgod"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "MIBR"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#40>
+        rdfs:label  "d4v41"@en , "40"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1998"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "117334"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ahmad Khalish Rusyaidee bin Nordin"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Malaysia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "d4v41vlr"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Paper Rex"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 14"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#19>
+        rdfs:label  "BcJ"@en , "19"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "61857"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Brendan Jensen"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "BcJFPS"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Evil Geniuses"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 4"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#164>
+        rdfs:label  "Wolfen"@en , "164"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "5545"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Berkant Joshkun"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Bulgaria"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "WolfenVAL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KOI"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#143>
+        rdfs:label  "soulcas"@en , "143"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "112041"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Dom Sulcas"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United Kingdom / Lithuania"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "soulcas_"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Liquid"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#122>
+        rdfs:label  "Redgar"@en , "122"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "135083"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Igor Vlasov"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Russia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "IRedgarI"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Liquid"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 17"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#101>
+        rdfs:label  "mojj"@en , "101"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "42814"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Buğra Kiraz"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "MOJJvl"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FUT Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 21"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#90>
+        rdfs:label  "Less"@en , "90"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2005"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "134446"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Felipe Basso"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "loud_less"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "LOUD"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 24"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#69>
+        rdfs:label  "jakee"@en , "69"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "6787"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jake Anderson"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "jakeeVAL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Cloud9"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 21"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#48>
+        rdfs:label  "dimasick"@en , "48"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1996"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "23890"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Dmitriy Matvienko"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Kazakhstan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "dimasickCSGO"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Liquid"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 6"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#27>
+        rdfs:label  "BuZz"@en , "27"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "94113"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Yu Byung-chul"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Buzz_kr"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DRX"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 13"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#172>
+        rdfs:label  "Zest"@en , "172"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "105344"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kim Gi-seok"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Zestvlrt"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DRX"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 27"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#151>
+        rdfs:label  "Sylvan"@en , "151"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2021"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "11887"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ko Young-sub"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Sylvan_4"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Gen.G Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 4"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#130>
+        rdfs:label  "Sacy"@en , "130"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "117892"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Gustavo Rossi"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "sen_sacy"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Sentinels"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#109>
+        rdfs:label  "NagZ"@en , "109"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1996"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "61133"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Juan Pablo Lopez Miranda"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Chile"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Nagzet"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KRÜ Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 11"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#2>
+        rdfs:label  "aimDLL"@en , "2"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "20563"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Hüseyin Kabişteke"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "aimDLLfps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "BBL Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 1"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#98>
+        rdfs:label  "Meteor"@en , "98"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "14684"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kim Tae-O"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Meteorvlrt"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Gen.G Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 19"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#77>
+        rdfs:label  "k1Ng"@en , "77"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "53004"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Lee Seung-won"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "k1Ngvlrt"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Gen.G Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 3"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#56>
+        rdfs:label  "Fit1nho"@en , "56"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "17282"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Adolfo Gallego"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Spain"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "fit1nho"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Giants"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 8"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#35>
+        rdfs:label  "cNed"@en , "35"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "132511"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Mehmet Yağız İpek"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "cNedf0r"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Natus Vincere"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 18"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#14>
+        rdfs:label  "AYRIN"@en , "14"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1996"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "57550"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jordan He"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Canada"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "AYRINval"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Global Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "April 4"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#159>
+        rdfs:label  "TS"@en , "159"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "21874"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Yu Tae-seok"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "TS_vlrt"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Gen.G Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 25"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#138>
+        rdfs:label  "Shin"@en , "138"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "7682"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ryad Ensaad"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "France"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "shinVALORANT"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Karmine Corp"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 3"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#117>
+        rdfs:label  "qpert"@en , "117"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "3461"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Mateja Mijović"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Serbia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "qpert999"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Cloud9"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 5"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#85>
+        rdfs:label  "kon4n"@en , "85"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "8478"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Vitor Hugo"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "kon4n"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FURIA Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#64>
+        rdfs:label  "Harmii"@en , "64"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "19367"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Nico Harms"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Germany"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Harmii_"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Liquid"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 5"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#43>
+        rdfs:label  "Dep"@en , "43"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "31894"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Yuma Hashimoto"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Japan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Dep_ow"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "ZETA DIVISION"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 4"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#22>
+        rdfs:label  "Boaster"@en , "22"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1995"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "186643"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jake Howlett"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United Kingdom"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "OfficialBoaster"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Fnatic"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 25"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#167>
+        rdfs:label  "xffero"@en , "167"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "18390"@en ;
+        <http://dbpedia.org/ontology/name>
+                "David Monangin"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Indonesia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "davidmichs"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Rex Regum Qeon"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "August 4"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#146>
+        rdfs:label  "stellar"@en , "146"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1996"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "37155"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Brenden McGrath"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "st9llar"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "100 Thieves"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 29"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#125>
+        rdfs:label  "RgLM"@en , "125"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "6262"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Matheus Rodigoli"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "RgLM7"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "MIBR"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#104>
+        rdfs:label  "MrFaliN"@en , "104"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "27128"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Furkan Yeğen"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "MrFaliN"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FUT Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 27"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#93>
+        rdfs:label  "MaKo"@en , "93"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "88990"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kim Myeong-kwan"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "MakoVlrt"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DRX"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 15"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#72>
+        rdfs:label  "JessieVash"@en , "72"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1990"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "30676"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jessie Cristy Cuyco"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Philippines"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Secret_JcVash"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Secret"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 21"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#51>
+        rdfs:label  "eKo"@en , "51"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "16627"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Yeom Wang-ryong"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "eKoVLRT"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Gen.G Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 12"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#30>
+        rdfs:label  "cauanzin"@en , "30"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2005"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "48937"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Cauan Pereira"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "cauanzinvlr"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "LOUD"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "August 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#154>
+        rdfs:label  "takej"@en , "154"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "28139"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Shogo Takemori"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Japan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "takejfps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DetonatioN FocusMe"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 17"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#133>
+        rdfs:label  "ScreaM"@en , "133"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1994"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "88004"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Adil Benrlitom"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Belgium / Morocco"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ScreaM_"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Karmine Corp"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#112>
+        rdfs:label  "Nozwerr"@en , "112"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1998"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "35025"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Agustin Ibarra"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Argentina"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Nozwer"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Leviatán"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 8"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#5>
+        rdfs:label  "Anthem"@en , "5"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "1105"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Yoshitaka Enomoto"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Japan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "AnthemFps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DetonatioN FocusMe"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 16"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#80>
+        rdfs:label  "keznit"@en , "80"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "52529"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Angelo Mori"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Chile"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "keznitdeuS"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KRÜ Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "August 14"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#59>
+        rdfs:label  "Foxy9"@en , "59"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2004"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "19550"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jung Jae-sung"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Foxy9fps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DRX"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 20"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#38>
+        rdfs:label  "Crws"@en , "38"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1996"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "48467"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Thanamethk Mahatthananuyut"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Thailand"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "crws_vlrt"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Talon Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 15"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#17>
+        rdfs:label  "barce"@en , "17"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1996"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "27095"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ryo Takebayashi"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Japan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "barcefps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "ZETA DIVISION"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "August 22"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#162>
+        rdfs:label  "Txozin"@en , "162"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "2640"@en ;
+        <http://dbpedia.org/ontology/name>
+                "André Saidel"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "TxozinOW"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "MIBR"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#141>
+        rdfs:label  "something"@en , "141"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "15638"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ilya Petrov"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Russia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "smthlikeyou11"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Paper Rex"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 11"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#120>
+        rdfs:label  "qw1"@en , "120"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "29336"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Konur Alp Şahin"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "qw1vl"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FUT Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 10"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#88>
+        rdfs:label  "lenne"@en , "88"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "10024"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Lionel Lim You Xiang"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Singapore"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Secret_lenne"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Secret"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#67>
+        rdfs:label  "iNTRO"@en , "67"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "15348"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kang Seung-gyun"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "intr0w0w"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "T1"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#46>
+        rdfs:label  "Destrian"@en , "46"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "14772"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Tomas Linikas"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Lithuania"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "DestrianVAL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Vitality"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 28"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#25>
+        rdfs:label  "BORKUM"@en , "25"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1996"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "30628"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jim Albert Timbreza"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Philippines"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Secret_BORKUM"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Secret"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "April 18"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#170>
+        rdfs:label  "zekken"@en , "170"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2005"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "51664"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Zachary Patrone"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States / Philippines"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "zekkenVAL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Sentinels"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 19"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#149>
+        rdfs:label  "sushiboys"@en , "149"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "48452"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Panyawat Subsiriroj"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Thailand"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ImSushiboys"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Talon Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 6"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#128>
+        rdfs:label  "s0m"@en , "128"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "50775"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Sam Oh"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "s0mcs"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "NRG"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 7"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#107>
+        rdfs:label  "murizzz"@en , "107"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "20065"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Murillo Tuchtenhagen"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "murizzzzz"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "MIBR"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 16"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#96>
+        rdfs:label  "Mazino"@en , "96"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "62929"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Roberto Francisco Rivas Bugueño"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Chile"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Mazinofps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Leviatán"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 29"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#75>
+        rdfs:label  "Jremy"@en , "75"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "10204"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jeremy Cabrera"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Philippines"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Secret_Jremy"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Secret"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#54>
+        rdfs:label  "ethos"@en , "54"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "8339"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Alan Ruan"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ethoz"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "NRG"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#33>
+        rdfs:label  "CigaretteS"@en , "33"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "39357"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Patiphan Posri"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Thailand"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "CigaretteS_Kla"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Paper Rex"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#12>
+        rdfs:label  "AvovA"@en , "12"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1998"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "64937"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Auni Chahade"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Denmark"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "AvovAFPS"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Heretics"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 5"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#157>
+        rdfs:label  "thwifo"@en , "157"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "11200"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Zander Kim"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "thwifo"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "100 Thieves"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "August 30"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#136>
+        rdfs:label  "Shao"@en , "136"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "108005"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Andrey Kiprsky"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Non-representing / Russia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Shaolele"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Natus Vincere"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 27"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#115>
+        rdfs:label  "patt"@en , "115"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "18494"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Patiphan Chaiwong"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Thailand"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ItsPatiphan"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Talon Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 3"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#8>
+        rdfs:label  "AsLanM4shadoW"@en , "8"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1994"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "23205"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ali Osman Balta"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "AsLanM4shadoW"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "BBL Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "April 21"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#83>
+        rdfs:label  "Klaus"@en , "83"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "56353"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Nicolas Ferrari"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Argentina"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "KlaussOW"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KRÜ Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "April 4"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#62>
+        rdfs:label  "garnetS"@en , "62"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2004"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "6231"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Apiwat Apiraksukumal"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Thailand"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "garnetssssssS"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Talon Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 7"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#41>
+        rdfs:label  "Daveeys"@en , "41"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "15656"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Santiago Galvis Ruiz"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Colombia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Daveeys21"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KRÜ Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#20>
+        rdfs:label  "benjyfishy"@en , "20"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2004"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "2777"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Benjy David Fish"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United Kingdom"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "benjyfishy"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Heretics"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "April 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#165>
+        rdfs:label  "Xeppaa"@en , "165"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "39034"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Erick Bach"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Xeppaaa"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Cloud9"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 19"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#144>
+        rdfs:label  "starxo"@en , "144"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "110612"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Patryk Kopczyński"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Poland"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "starxo5"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KOI"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "August 28"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#123>
+        rdfs:label  "Reformed"@en , "123"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "8210"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jeffrey Lu"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Canada"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ReformedVal"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Evil Geniuses"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 30"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#102>
+        rdfs:label  "MOLSI"@en , "102"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "15886"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Michał Łącki"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Poland"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "molsiVAL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Vitality"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 26"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#91>
+        rdfs:label  "Lightningfast"@en , "91"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "22771"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Abhirup Choudhury"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "India"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "LightningFast07"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Global Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 7"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#70>
+        rdfs:label  "Jamppi"@en , "70"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "97856"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Elias Olkkonen"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Finland"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Jamppicsgo"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Liquid"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 22"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#49>
+        rdfs:label  "DubsteP"@en , "49"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1992"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "30443"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jayvee Paguirigan"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Philippines"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Secret_DubsteP"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Secret"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 21"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#28>
+        rdfs:label  "C0M"@en , "28"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "56825"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Corbin Lee"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States / South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "C0Mtweets"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Evil Geniuses"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 10"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#173>
+        rdfs:label  "Zyppan"@en , "173"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "107623"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Pontus Eek"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Sweden"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Zyppaan"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Natus Vincere"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 17"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#152>
+        rdfs:label  "t3xture"@en , "152"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "13678"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kim Na-ra"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "t3xture_kr"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Global Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 20"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#131>
+        rdfs:label  "Sayaplayer"@en , "131"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1998"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "31217"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ha Jung-woo"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Sayaplayer"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "T1"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 29"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#110>
+        rdfs:label  "nAts"@en , "110"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "137795"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ayaz Akhmetshin"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Russia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "nAts__ss"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Liquid"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 1"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#3>
+        rdfs:label  "Alfajer"@en , "3"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2005"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "138875"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Emir Ali Beder"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Alfajervl"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Fnatic"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 10"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#99>
+        rdfs:label  "mindfreak"@en , "99"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "117401"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Aaron Leonhart"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Indonesia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "aaronleonhart4"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Paper Rex"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 4"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#78>
+        rdfs:label  "kamyk"@en , "78"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "13771"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Maks Rychlewski"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Poland"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "kamykvalo"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Fnatic"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#57>
+        rdfs:label  "fl1pzjder"@en , "57"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "18314"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Saibani Rahmad"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Indonesia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "fl1pzjder"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Rex Regum Qeon"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 27"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#36>
+        rdfs:label  "crashies"@en , "36"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "186650"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Austin Roberts"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Crashies"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "NRG"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 20"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#15>
+        rdfs:label  "ban"@en , "15"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "21453"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Joseph Seungmin Oh"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ban_val"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "T1"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 27"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#160>
+        rdfs:label  "Turko"@en , "160"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "25282"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Mehmet Özen"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Turkovalorant"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "BBL Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 15"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#139>
+        rdfs:label  "Shyy"@en , "139"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2004"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "30409"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Fabian Usnayo"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Chile"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ShyyFab"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Leviatán"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 22"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#118>
+        rdfs:label  "qRaxs"@en , "118"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "37899"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Doğukan Balaban"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "qRaxs_"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FUT Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#86>
+        rdfs:label  "Laz"@en , "86"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1995"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "64042"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Koji Ushida"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Japan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "lazvell"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "ZETA DIVISION"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 26"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#65>
+        rdfs:label  "hoody"@en , "65"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1998"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "30671"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Aaro Peltokangas"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Finland"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "hoodyVAL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Giants"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 17"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#44>
+        rdfs:label  "Derke"@en , "44"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "183070"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Nikita Sirmitev"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Finland / Russia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Derke"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Fnatic"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 6"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#23>
+        rdfs:label  "Boo"@en , "23"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "15970"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Ričardas Lukaševičius"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Lithuania"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "BooVAL1"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Heretics"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#168>
+        rdfs:label  "xms"@en , "168"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "4853"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Alexandre Forté"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "France"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "xms51"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Karmine Corp"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 24"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#147>
+        rdfs:label  "SugarZ3ro"@en , "147"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "28308"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Shota Watanabe"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Japan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "SugarZ3roVL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "ZETA DIVISION"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 18"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#126>
+        rdfs:label  "rhyme"@en , "126"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "19469"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Emir Muminovic"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Norway / Bosnia and Herzegovina"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "rhymeVAL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Giants"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 12"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#105>
+        rdfs:label  "Muj"@en , "105"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "24858"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Serhat Yüksel"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "MujsOfficial"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FUT Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 24"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#94>
+        rdfs:label  "Marved"@en , "94"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "150550"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jimmy Nguyen"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Canada"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Marved6"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Sentinels"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "February 24"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#73>
+        rdfs:label  "Jinggg"@en , "73"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "110521"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Wang Jing Jie"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Singapore"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Jingggxd"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Paper Rex"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "july 29"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#52>
+        rdfs:label  "Emman"@en , "52"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "6142"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Emmanuel Morales"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Philippines"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "rrq_emmanfps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Rex Regum Qeon"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#31>
+        rdfs:label  "ceNder"@en , "31"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "19858"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jokūbas Labutis"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Lithuania"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ceNder1337"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Vitality"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 30"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#10>
+        rdfs:label  "Asuna"@en , "10"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "71235"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Peter Mazuryk"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States / Ukraine"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Asunaa"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "100 Thieves"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 26"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#155>
+        rdfs:label  "TENNN"@en , "155"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "29817"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Tenta Asai"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Japan"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "tenhakyou"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "ZETA DIVISION"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 19"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#134>
+        rdfs:label  "ScrewFace"@en , "134"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "5534"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kyle Jensen"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "ScrewFaceVAL"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Evil Geniuses"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 20"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#113>
+        rdfs:label  "nukkye"@en , "113"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "63191"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Žygimantas Chmieliauskas"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Lithuania"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "nukkye"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Giants"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 5"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#6>
+        rdfs:label  "Apotheon"@en , "6"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "6778"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Vincent Le"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Canada / Vietnam"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Apothval"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Evil Geniuses"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 15"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#81>
+        rdfs:label  "Khalil"@en , "81"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2004"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "24329"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Khalil Schmidt"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "khalilfps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FURIA Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 11"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#60>
+        rdfs:label  "foxz"@en , "60"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "48304"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Itthirit Ngamsaard"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Thailand"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "foxzfoxzfoxz"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Talon Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "April 8"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#39>
+        rdfs:label  "Cryocells"@en , "39"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "56000"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Matthew Panganiban"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Cryocells_"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "100 Thieves"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 22"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#18>
+        rdfs:label  "Bazzi"@en , "18"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "16250"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Park Jun-ki"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "bazzivlrt"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Global Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 24"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#163>
+        rdfs:label  "Victor"@en , "163"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1996"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "185650"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Victor Wong"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "victorwong"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "NRG"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 14"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#142>
+        rdfs:label  "SouhcNi"@en , "142"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1999"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "6026"@en ;
+        <http://dbpedia.org/ontology/name>
+                "İbrahim Sağır"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "souhcni"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "BBL Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "November 23"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#121>
+        rdfs:label  "Rb"@en , "121"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "123675"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Goo Sang-min"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Rbvlrt"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DRX"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 7"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#100>
+        rdfs:label  "mixwell"@en , "100"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1995"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "78582"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Óscar Cañellas Colocho"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Spain"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Mixwell"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Heretics"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 10"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#89>
+        rdfs:label  "Leo"@en , "89"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "130585"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Leo Jannesson"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Sweden"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "leojannesson"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Fnatic"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "December 15"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#68>
+        rdfs:label  "invy"@en , "68"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "9300"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Adrian Reyes"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Philippines"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Secret_invy"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Team Secret"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#47>
+        rdfs:label  "dgzin"@en , "47"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2000"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "13097"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Douglas Silva"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "dgzinh99"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FURIA Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 6"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#26>
+        rdfs:label  "Brave"@en , "26"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "12693"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Eren Kasırga"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Turkey"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "erenbrave"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "BBL Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 28"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#171>
+        rdfs:label  "Zellsis"@en , "171"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1998"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "32935"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jordan Montemurro"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "zellsis"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Cloud9"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 2"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#150>
+        rdfs:label  "SUYGETSU"@en , "150"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "102293"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Dmitry Ilyushin"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Non-representing / Russia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "suygetsu"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Natus Vincere"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 16"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#129>
+        rdfs:label  "saadhak"@en , "129"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1997"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "159434"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Matias Delipetro"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Argentina"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "loud_saadhak"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "LOUD"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 8"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#108>
+        rdfs:label  "mwzera"@en , "108"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "24367"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Leonardo Serrati"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "mwzera"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FURIA Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 30"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#1>
+        rdfs:label  "2GE"@en , "1"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "5648"@en ;
+        <http://dbpedia.org/ontology/name>
+                "James Goopio"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Philippines"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "rrq2ge"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Rex Regum Qeon"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#97>
+        rdfs:label  "Melser"@en , "97"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1995"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "35484"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Marco Eliot Machuca Amaro"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Chile"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Melserlol"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KRÜ Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 12"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#76>
+        rdfs:label  "jzz"@en , "76"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "N/A"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "3208"@en ;
+        <http://dbpedia.org/ontology/name>
+                "João Pedro"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "jzzvlr"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "MIBR"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "N/A"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#55>
+        rdfs:label  "f0rsakeN"@en , "55"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2004"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "117401"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jason Susanto"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Indonesia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "jasonsusantoo"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Paper Rex"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "March 25"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#34>
+        rdfs:label  "Cloud"@en , "34"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "18408"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kirill Nehozhin"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Russia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "cloudezeee"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Giants"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 10"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#13>
+        rdfs:label  "axeddy"@en , "13"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "4512"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Carlos Alberto Machado Galvão"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "axeddy1"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KRÜ Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 11"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#158>
+        rdfs:label  "trexx"@en , "158"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2004"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "18878"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Nikita Cherednichenko"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Russia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "trexxfps"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KOI"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "April 24"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#137>
+        rdfs:label  "Sheydos"@en , "137"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2001"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "109927"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Bogdan Naumov"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Russia"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Sheydosk1ng"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KOI"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "October 10"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#116>
+        rdfs:label  "qck"@en , "116"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "24834"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Gabriel Lima"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "qckvlr"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "FURIA Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "July 18"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#9>
+        rdfs:label  "aspas"@en , "9"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "135849"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Erick Santos"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Brazil"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "loud_aspas"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "LOUD"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "June 15"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#84>
+        rdfs:label  "koldamenta"@en , "84"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1993"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "53147"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Jose Luis Aranguren Herrero"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "Spain"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "koldamenta"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "KOI"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "May 24"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#63>
+        rdfs:label  "GodDead"@en , "63"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "1998"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "13052"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kim Sung-sin"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "GodDead_twit"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Gen.G Esports"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "January 9"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#42>
+        rdfs:label  "Demon1"@en , "42"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2002"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "48067"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Max Mazanov"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "United States"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "Demon1___"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "Evil Geniuses"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 7"@en .
+
+<http://linkdata.org/resource/rdf1s9994i#21>
+        rdfs:label  "BeYN"@en , "21"@en ;
+        <http://dbpedia.org/ontology/birthYear>
+                "2003"@en ;
+        <http://dbpedia.org/ontology/careerPrizeMoney>
+                "4025"@en ;
+        <http://dbpedia.org/ontology/name>
+                "Kang Ha-bin"@en ;
+        <http://dbpedia.org/ontology/nationality>
+                "South Korea"@en ;
+        <http://open.vocab.org/terms/twitter-id>
+                "BeYNvlrt"@en ;
+        <http://purl.obolibrary.org/obo/member_of>
+                "DRX"@en ;
+        <http://xmlns.com/foaf/0.1/birthday>
+                "September 5"@en .
